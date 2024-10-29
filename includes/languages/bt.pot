@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Backtracks\n"
+"POT-Creation-Date: 2018-02-06 11:17-0700\n"
+"PO-Revision-Date: 2018-02-06 11:16-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: backtracks.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/editor-button.php:52
+msgid "Add Backtracks Player"
+msgstr ""
+
+#: includes/admin/fields/checkbox.php:87 includes/admin/pages/general.php:131
+#: includes/admin/pages/general.php:190 includes/admin/pages/general.php:204
+#: includes/admin/views/editor-button-settings.php:52
+#: includes/admin/views/editor-button-settings.php:77
+#: includes/admin/views/editor-button-settings.php:86
+#: includes/admin/views/editor-button-settings.php:96
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/menu.php:38
+msgid "Backtracks Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: includes/admin/menu.php:38
+msgid "Backtracks"
+msgstr ""
+
+#: includes/admin/modal.php:31
+msgid "Insert Backtracks Player"
+msgstr ""
+
+#: includes/admin/modal.php:32
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/pages/general.php:30
+msgid "General"
+msgstr ""
+
+#: includes/admin/pages/general.php:31
+msgid "Help docs for General Settings"
+msgstr ""
+
+#: includes/admin/pages/general.php:75
+#: includes/admin/views/editor-button-settings.php:24
+msgid "Backtracks Username"
+msgstr ""
+
+#: includes/admin/pages/general.php:84
+msgid "Backtracks account username"
+msgstr ""
+
+#: includes/admin/pages/general.php:87
+#: includes/admin/views/editor-button-settings.php:30
+msgid "Backtracks Series Slug"
+msgstr ""
+
+#: includes/admin/pages/general.php:96
+msgid "Backtracks series slug"
+msgstr ""
+
+#: includes/admin/pages/general.php:99
+#: includes/admin/views/editor-button-settings.php:36
+msgid "Theme"
+msgstr ""
+
+#: includes/admin/pages/general.php:108
+msgid "Name or ID of the player theme"
+msgstr ""
+
+#: includes/admin/pages/general.php:111
+#: includes/admin/views/editor-button-settings.php:42
+msgid "Author/Artist"
+msgstr ""
+
+#: includes/admin/pages/general.php:120
+msgid "Set or override the author/artist of the media"
+msgstr ""
+
+#: includes/admin/pages/general.php:123
+#: includes/admin/views/editor-button-settings.php:48
+msgid "Show Cover Art"
+msgstr ""
+
+#: includes/admin/pages/general.php:129 includes/admin/pages/general.php:188
+#: includes/admin/pages/general.php:202
+#: includes/admin/views/editor-button-settings.php:50
+#: includes/admin/views/editor-button-settings.php:84
+#: includes/admin/views/editor-button-settings.php:94
+msgid "Series Default"
+msgstr ""
+
+#: includes/admin/pages/general.php:130 includes/admin/pages/general.php:189
+#: includes/admin/pages/general.php:203
+#: includes/admin/views/editor-button-settings.php:51
+#: includes/admin/views/editor-button-settings.php:85
+#: includes/admin/views/editor-button-settings.php:95
+msgid "No"
+msgstr ""
+
+#: includes/admin/pages/general.php:134
+msgid ""
+"Show the art cover next to the author/artist/host/show name and episode work/"
+"title. Series default falls back to the default in your Backtracks account."
+msgstr ""
+
+#: includes/admin/pages/general.php:137
+#: includes/admin/views/editor-button-settings.php:58
+msgid "Background Image"
+msgstr ""
+
+#: includes/admin/pages/general.php:146
+msgid ""
+"Set or override the large background image that the player supports. The "
+"player will automatically tint the image. When setting a custom image we "
+"recommend a minimum size of 600px x 300px"
+msgstr ""
+
+#: includes/admin/pages/general.php:149
+#: includes/admin/views/editor-button-settings.php:64
+msgid "Cover Art Thumbnail URL"
+msgstr ""
+
+#: includes/admin/pages/general.php:158
+msgid ""
+"Set or override the cover art displayed when the player has the option to "
+"show cover art set to `true`."
+msgstr ""
+
+#: includes/admin/pages/general.php:161
+#: includes/admin/views/editor-button-settings.php:70
+msgid "Cover Art Thumbnail Alt Text"
+msgstr ""
+
+#: includes/admin/pages/general.php:170
+#: includes/admin/views/editor-button-settings.php:72
+msgid "Set or override the cover art's alt text."
+msgstr ""
+
+#: includes/admin/pages/general.php:173
+#: includes/admin/views/editor-button-settings.php:76
+msgid "Exclude Embed Script"
+msgstr ""
+
+#: includes/admin/pages/general.php:178
+msgid "Check this to exclude the JavaScript for embedding the player"
+msgstr ""
+
+#: includes/admin/pages/general.php:179
+msgid "i.e. your template(s) already include the script"
+msgstr ""
+
+#: includes/admin/pages/general.php:182
+#: includes/admin/views/editor-button-settings.php:82
+msgid "Show Transcript"
+msgstr ""
+
+#: includes/admin/pages/general.php:193
+#: includes/admin/views/editor-button-settings.php:88
+msgid ""
+"Show transcript by default on load. False by default. Series default falls "
+"back to the default in your Backtracks account."
+msgstr ""
+
+#: includes/admin/pages/general.php:196
+#: includes/admin/views/editor-button-settings.php:92
+msgid "Show Transcript Markers"
+msgstr ""
+
+#: includes/admin/pages/general.php:207
+#: includes/admin/views/editor-button-settings.php:98
+msgid ""
+"Show \"transit stops\" where speaker sections start. For densely annotated "
+"sources, this does not display well."
+msgstr ""
+
+#: includes/admin/pages/general.php:210
+#: includes/admin/views/editor-button-settings.php:102
+msgid "Player Class"
+msgstr ""
+
+#: includes/admin/pages/general.php:220
+#: includes/admin/views/editor-button-settings.php:104
+msgid ""
+"Player CSS/HTML class name(s). Separate multiple classes with a space. It is "
+"highly unlikely this will need to be modified."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:18
+msgid "Backtracks Episode Slug"
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:20
+msgid "Backtracks episode slug."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:26
+msgid "Backtracks account username."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:32
+msgid "Backtracks series slug."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:38
+msgid "Name or ID of the player theme."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:44
+msgid "Set or override the author/artist of the media."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:54
+msgid ""
+"Show the art cover next to the author/artist/host/show name and episode/work "
+"title. Series default falls back to the default in your Backtracks account."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:60
+msgid ""
+"Set or override the large background image that the player supports. The "
+"player will automatically tint the image. When setting a custom image we "
+"recommend a minimum size of 600px x 300px."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:66
+msgid ""
+"Set or override the cover art displayed when the player has the option to "
+"show cover art set to \"true\"."
+msgstr ""
+
+#: includes/admin/views/editor-button-settings.php:78
+msgid ""
+"Exclude JavaScript for embedding the player. [i.e. your template(s) already "
+"include the script]"
+msgstr ""
+
+#: includes/shortcodes/backtracks-player.php:128
+msgid ""
+"You need to set the proper attributes for username, series slug, and episode "
+"slug if you are not going to use the embed attribute."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress plugin for Backtracks."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://backtracks.fm/?ref=wp&utm_source=wp&utm_medium=plugin_listing"
+msgstr ""

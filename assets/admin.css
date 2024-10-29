@@ -1,0 +1,136 @@
+
+.wp-dialog {
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.ui-dialog-title {
+	background: url( 'images/logo.svg' ) top left no-repeat;
+	padding-left: 30px;
+}
+
+.wp-dialog .ui-dialog-titlebar {
+	margin-bottom: 2px;
+}
+
+#bt-admin-modal {
+	padding-top: 0;
+}
+
+.bt-modal-setting, .bt-modal-setting p {
+	padding-top: 0;
+	margin-top: 0;
+}
+
+#bt-admin-modal::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+#bt-admin-modal::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+#bt-admin-modal::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #2DDBAD;
+}
+
+.bt-modal-setting label {
+	font-weight: bold;
+}
+
+.bt-modal-setting .spinner {
+	float: none;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	width: 50%;
+	visibility: visible;
+	display: none;
+}
+
+
+.bt-button {
+	padding: 15px 27px;
+	border-radius: 6px;
+	text-decoration: none;
+	margin: 1px;
+	transition: all .5s;
+}
+
+.bt-button:hover {
+	cursor: pointer;
+}
+
+.bt-button.bt-button-primary {
+	font-weight: 600;
+	color: #FFF;
+	background-color: #2DDBAD;
+	border: 1px solid #2DDBAD;
+}
+
+.bt-button.bt-button-primary:hover {
+	color: #FFF;
+	background-color: #2DDBAD;
+	border: 5px solid #2DDBAD;
+}
+
+.bt-button.bt-button-secondary {
+	color: #808080;
+	border: 1px solid #C0C0C0;
+}
+
+.bt-button.button-secondary:hover {
+	color: #FFF;
+	background-color: #C0C0C0;
+}
+
+/** Selectize Episodes */
+.episode-item-wrap {
+	padding: 10px!important;
+}
+
+.episode-item-title strong {
+	font-size: larger;
+}
+
+.episode-item-slug {}
+
+.episode-item-status, .episode-item-dates {
+	display: inline-block;
+}
+
+.episode-item-status {
+	width: 100px;
+	border-radius: 10px;
+	text-align: center;
+	margin: 10px;
+	vertical-align: top;
+	color: #fff;
+	font-weight: bold;
+}
+
+.episode-item-status {
+	background: #000;
+}
+
+.episode-item-status.publish-status-2 {
+	background: #1c84c6;
+	/*background: #0C1C5E;*/
+}
+
+.episode-item-status.publish-status-1 {
+	background: #1AB394;
+}
+
+.episode-item-status.publish-status-0 {
+	background: #FF9B9B;
+}
+
+.episode-item-dates {}
